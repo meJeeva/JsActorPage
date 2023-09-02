@@ -10,3 +10,7 @@ const aboutJack = () => {
   
   In the films, Sparrow is one of the nine pirate lords in the Brethren C`
 }
+
+const addPhone = () => {
+  return '9787878989';
+}
